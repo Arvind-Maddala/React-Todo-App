@@ -1,3 +1,6 @@
+![screenshot-arvind-maddala-github-io-React-Todo-App-1612135449603](https://user-images.githubusercontent.com/67595212/106401489-5ddc2c80-644a-11eb-902c-1a8c630bce80.png)
+
+
 # Todo App with React
 
 Check the Live demo (https://arvind-maddala.github.io/React-Todo-App/)
